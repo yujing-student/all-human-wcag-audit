@@ -2,15 +2,13 @@
 
 # WCAG Audit Sportcentrum de club
 
-Doe een WCAG test op een bestaande website en rapporteer daarover.
+ik heb sportcentrum de club uitgekozen om te testen hoe tegankelijk de website is
 
-## Titel Website
+## lighthouse test
+![image](https://github.com/yujing-student/all-human-wcag-audit/assets/100352887/50e9d6e2-8448-452b-b7f0-d0c65bc8dabb)
+uit de test kwam 92 op de **homepagina** en dat klopt wel die pagina hebben ze heel goed gemaakt en in de handmatige test zie ik ook dat je deze website goed kan gebruiken
 
-Welke website heb je getest? Beschrijf de website en upload een screenshot. 
 
-Toon een screenshot van het Lighthouse Accessibility testresultaat.
-
-Schrijf een samenvatting van de testbevindingen.
 
 ## Licentie
 

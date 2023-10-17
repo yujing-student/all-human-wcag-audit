@@ -1,6 +1,6 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/all-human-wcag-audit/blob/main/docs/INSTRUCTIONS.md)
 
-# WCAG Audit 
+# WCAG Audit Sportcentrum de club
 
 Doe een WCAG test op een bestaande website en rapporteer daarover.
 

@@ -1,4 +1,4 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/all-human-wcag-audit/blob/main/docs/INSTRUCTIONS.md)
+> hier lees je wat de oprdacht was: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/all-human-wcag-audit/blob/main/docs/INSTRUCTIONS.md)
 
 # WCAG Audit Sportcentrum de club
 

@@ -2,7 +2,7 @@
 
 # WCAG Audit Sportcentrum de club
 
-ik heb sportcentrum de club uitgekozen om te testen hoe tegankelijk de website is
+ik heb sportcentrum de club uitgekozen om te testen hoe tegankelijk de website is zie de wiki voor meer informatie :https://github.com/yujing-student/all-human-wcag-audit/wiki
 
 ## lighthouse test
 ![image](https://github.com/yujing-student/all-human-wcag-audit/assets/100352887/50e9d6e2-8448-452b-b7f0-d0c65bc8dabb)
